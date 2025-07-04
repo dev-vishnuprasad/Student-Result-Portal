@@ -52,4 +52,4 @@ cd student-result-portal
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
+streamlit run student_result_app.py
