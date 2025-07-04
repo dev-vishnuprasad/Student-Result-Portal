@@ -358,7 +358,7 @@ def main():
         
         with col1:
             registration_number = st.text_input("Registration Number", placeholder="e.g., 230201601069")
-            dob = st.date_input("Date of Birth", min_value=datetime.date(1990, 1, 1), max_value=None,format="DD/MM/YYYY")
+            dob = st.date_input("Date of Birth",value=datetime.date(2001,9,11), min_value=datetime.date(1990, 1, 1), max_value=None,format="DD/MM/YYYY")
         
         with col2:
             # Display CAPTCHA
@@ -464,6 +464,6 @@ st.markdown("""
 st.markdown("""
     <hr style="margin-top: 50px; margin-bottom: 10px;">
     <div style='text-align: center; color: gray; font-size: 16px;'>
-        For Bugs and Legal issues contact : <strong>vishnuprasad25020@gmail.com</strong>
+        For Bugs🐞 and Legal issues🥀😭 contact : <strong>vishnuprasad25020@gmail.com</strong>
     </div>
 """, unsafe_allow_html=True)
