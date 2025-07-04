@@ -6,6 +6,12 @@ A sleek and interactive web app to fetch and display student results from [resul
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 
 ---
+## ❓ Why This App Exists?
+The results page only shows the Gradepoints and doesn't show the Internal and External marks which can be crucial for students who considering revaluevation.
+The mobile app is also very buggy and doesnot display the results properly.
+The main result portal doesnot create a new session after each data fetching allowing a potential DDOS Attack.
+
+It solves all the above mentioned problems and also Integreates responsive and clean UI.
 
 ## ✨ Features
 
