@@ -464,6 +464,6 @@ st.markdown("""
 st.markdown("""
     <hr style="margin-top: 50px; margin-bottom: 10px;">
     <div style='text-align: center; color: gray; font-size: 16px;'>
-        For Bugs🐞 and Legal issues🥀😭 contact : <strong>vishnuprasad25020@gmail.com</strong>
+        For Bugs🐞 and other issues🥀 contact : <strong>vishnuprasad25020@gmail.com</strong>
     </div>
 """, unsafe_allow_html=True)
